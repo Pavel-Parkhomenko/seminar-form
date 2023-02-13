@@ -1,5 +1,5 @@
 
-# Registration & Login forms
+# For Seminar Form
 
 ## Tech Stack
 
