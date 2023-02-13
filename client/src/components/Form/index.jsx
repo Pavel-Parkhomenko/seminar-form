@@ -35,8 +35,6 @@ export function Form() {
 		}
 	}
 
-	//console.log(!!message)
-
 	const formik = useFormik({
 		initialValues: {
 			fio: '',

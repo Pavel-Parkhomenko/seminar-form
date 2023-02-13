@@ -11,7 +11,7 @@ export function Select({ id, name, onChange, label, data }) {
 				name={name}
 				onChange={onChange}
 			>
-				<option selected disabled>Выбрать</option>
+				<option selected value='' disabled>Выбрать</option>
 				{data.map(item => <option vlaue={item} key={item}>{item}</option>)}
 			</select>
 		</div>

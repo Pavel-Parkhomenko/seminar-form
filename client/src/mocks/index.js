@@ -26,4 +26,4 @@ export const SUBMIT_TEXT = 'Отправить'
 export const MESSAGE_SUCCESS = `Ваша заявка успешно отправлена.
     Ожидайте email c потдверждением бронирования`
     
-export const MESSAGE_FAILED = `Ошибка. Возможно данный хостинг не подтерживает отпрвку email`
+export const MESSAGE_FAILED = `Ошибка. Возможно данный хостинг не поддерживает отпрвку email`
