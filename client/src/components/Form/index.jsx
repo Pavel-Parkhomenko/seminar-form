@@ -31,7 +31,7 @@ export function Form() {
 				setMessage(MESSAGE_FAILED)
 			}
 		} catch (err) {
-			console.log(err)
+			setMessage(MESSAGE_FAILED)
 		}
 	}
 
