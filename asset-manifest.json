@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Pavel-Parkhomenko/seminar-form/static/css/main.44fa496b.css",
-    "main.js": "/Pavel-Parkhomenko/seminar-form/static/js/main.275c60e5.js",
-    "index.html": "/Pavel-Parkhomenko/seminar-form/index.html",
-    "main.44fa496b.css.map": "/Pavel-Parkhomenko/seminar-form/static/css/main.44fa496b.css.map",
-    "main.275c60e5.js.map": "/Pavel-Parkhomenko/seminar-form/static/js/main.275c60e5.js.map"
+    "main.css": "/seminar-form/static/css/main.44fa496b.css",
+    "main.js": "/seminar-form/static/js/main.275c60e5.js",
+    "index.html": "/seminar-form/index.html",
+    "main.44fa496b.css.map": "/seminar-form/static/css/main.44fa496b.css.map",
+    "main.275c60e5.js.map": "/seminar-form/static/js/main.275c60e5.js.map"
   },
   "entrypoints": [
     "static/css/main.44fa496b.css",
