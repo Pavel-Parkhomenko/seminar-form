@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/seminar-form/static/css/main.44fa496b.css",
-    "main.js": "/seminar-form/static/js/main.db5c2b16.js",
+    "main.js": "/seminar-form/static/js/main.b34d5ff8.js",
     "index.html": "/seminar-form/index.html",
     "main.44fa496b.css.map": "/seminar-form/static/css/main.44fa496b.css.map",
-    "main.db5c2b16.js.map": "/seminar-form/static/js/main.db5c2b16.js.map"
+    "main.b34d5ff8.js.map": "/seminar-form/static/js/main.b34d5ff8.js.map"
   },
   "entrypoints": [
     "static/css/main.44fa496b.css",
-    "static/js/main.db5c2b16.js"
+    "static/js/main.b34d5ff8.js"
   ]
 }
