@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Pavel-Parkhomenko/seminar-form/static/css/main.44fa496b.css",
+    "main.js": "/Pavel-Parkhomenko/seminar-form/static/js/main.275c60e5.js",
+    "index.html": "/Pavel-Parkhomenko/seminar-form/index.html",
+    "main.44fa496b.css.map": "/Pavel-Parkhomenko/seminar-form/static/css/main.44fa496b.css.map",
+    "main.275c60e5.js.map": "/Pavel-Parkhomenko/seminar-form/static/js/main.275c60e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44fa496b.css",
+    "static/js/main.275c60e5.js"
+  ]
+}
